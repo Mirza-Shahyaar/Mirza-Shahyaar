@@ -27,4 +27,9 @@ Hi there! I'm **Mirza Shahyaar**, a passionate student pursuing a Bachelor's deg
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mirza-shahyaar-b85292294/)
 - Twitter: [![Contact me on WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat-square&logo=whatsapp)](https://wa.me/923049472046)
 
+## Github Stats
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mirza-Shahyaar&show_icons=true&theme=dark)
+
+
+
 
