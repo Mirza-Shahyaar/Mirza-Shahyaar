@@ -12,8 +12,10 @@ Hi there! I'm **Mirza Shahyaar**, a passionate student pursuing a Bachelor's deg
 ## Current Projects
 
 ### Python Projects
-- **Expense Budget Tracker**:The Expense Budget Tracker is a Python-based application designed to help users manage and track their personal finances efficiently. This project aims to provide a simple yet powerful tool for monitoring expenses, setting budgets, and generating insightful reports to promote better financial habit 
+- **Expense Budget Tracker**:The Expense Budget Tracker is a Python-based application designed to help users manage and track their personal finances efficiently. This project aims to provide a simple yet powerful tool for monitoring expenses, setting budgets, and generating insightful reports to promote better financial habit.
 
+- **Excel Automation with OpenPyXL**:This python based program automates processing an Excel workbook by applying a 10% discount to prices in the third column and writing the corrected prices to a new fourth column. It also generates a bar chart of the corrected prices and saves the updated workbook. Non-numeric data in the price column is identified and reported.
+ 
 ### C++ Projects
 - **Library Management System**: The Library Management System is a C++ application designed to efficiently manage the operations of a library, including cataloging books, managing borrowers, and handling book borrowing and returning processes. This project aims to streamline library operations, improve accessibility to library resources, and maintain accurate records of books and borrowers.
 
